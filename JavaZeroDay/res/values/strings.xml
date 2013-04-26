@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Java 0-Day</string>
+
+    <string name="zero">00:00:00</string>
+
+    <string name="zero_day">Java 0-Day</string>
+
+</resources>
